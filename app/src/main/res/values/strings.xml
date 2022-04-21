@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WattTalk</string>
+
+    <string name="quit_title">Quit</string>
+    <string name="quit_content">Are you sure you want to quit?</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="quit">Quit</string>
+
+    <string name="popup_title">There is no link to join the meeting,\nso the app closes!</string>
+    <string name="popup_content">If you click the join meeting link in the video conference\ninvitation email, The app will automatically launch and you can\nenter the conference room.</string>
+
+</resources>
